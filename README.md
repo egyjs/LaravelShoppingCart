@@ -1,4 +1,4 @@
-## LaravelShoppingcart
+## Laravel Shopping Cart
 
 A simple shoppingcart implementation for Laravel.
 
