@@ -1,5 +1,5 @@
 <?php
-namespace Gloudemans\Shoppingcart\Facades;
+namespace El3zahaby\Shoppingcart\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
